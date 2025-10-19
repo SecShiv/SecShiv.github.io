@@ -1,4 +1,6 @@
-### Reflected XSS on my Uni site.
+---
+title: "Reflected XSS on my Uni site"
+---
 
 - Here, I logged onto the uni auth site to enroll for the 2nd Year, and came across a parameter that I tested, which encoded ```<>```, but not ```"```. Which meant, I could still break out of the value using a double quote and still make it one click, with the following payload. 
 (The autofocus/onfocus JS handler makes that possible)
@@ -24,6 +26,7 @@ I reported it ethically to my lecturer and it got fixed.
   <source src="/Assets/uni-rxss.mp4" type="video/mp4">
 </video>
 https://github.com/user-attachments/assets/0702f9d6-ee63-423f-984a-bdc48c543bab
+
 
 
 
