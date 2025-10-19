@@ -23,6 +23,8 @@ I reported it ethically to my lecturer and it got fixed.
 <video width="600" controls>
   <source src="/Assets/uni-rxss.mp4" type="video/mp4">
 </video>
+https://github.com/user-attachments/assets/0702f9d6-ee63-423f-984a-bdc48c543bab
+
 
 
 
