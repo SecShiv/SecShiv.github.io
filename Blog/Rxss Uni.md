@@ -21,7 +21,10 @@ I reported it ethically to my lecturer and it got fixed.
 
 ### PoC:
 <video width="600" controls>
-  <source src="/Assets/uni-rxss.mp4" type="video/mp4"</video>
+  <source src="/Assets/uni-rxss.mp4" type="video/mp4">
+</video>
+
+
 
 
 
